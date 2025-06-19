@@ -1,7 +1,7 @@
 # Pump.Fun Token Launcher (Python)
 
-[![PyPI version](https://badge.fury.io/py/pump-fun-token-launcher.svg)](https://badge.fury.io/py/pump-fun-token-launcher)
-[![Python](https://img.shields.io/pypi/pyversions/pump-fun-token-launcher.svg)](https://pypi.org/project/pump-fun-token-launcher/)
+[![PyPI version](https://badge.fury.io/py/pump-fun-token-launcher.svg?cache=bust)](https://badge.fury.io/py/pump-fun-token-launcher)
+[![Python](https://img.shields.io/pypi/pyversions/pump-fun-token-launcher.svg?cache=bust)](https://pypi.org/project/pump-fun-token-launcher/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Compatible-purple.svg)](https://solana.com/)
 
